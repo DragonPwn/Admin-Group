@@ -1,0 +1,4 @@
+﻿  LocalAdmin.cpp
+C:\Users\boody\Desktop\LocalAdmin\LocalAdmin\LocalAdmin.cpp(18,17): warning C4101: 'ADD': unreferenced local variable
+C:\Users\boody\Desktop\LocalAdmin\LocalAdmin\LocalAdmin.cpp(17,17): warning C4101: 'USER': unreferenced local variable
+  LocalAdmin.vcxproj -> C:\Users\boody\Desktop\LocalAdmin\Debug\LocalAdmin.exe
